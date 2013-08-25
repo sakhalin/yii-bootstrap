@@ -44,7 +44,7 @@ You're done! Now you can start using Bootstrap in your application. For examples
 
 Configure your git in project
 ---------
-Add to your .gitinnore
+Add to your .gitignore
 
 protected/extensions/bootstrap/demo
 
